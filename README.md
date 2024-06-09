@@ -1,6 +1,6 @@
 ## Hi there. 👋
 <p align = "center">
-  My name is Tomisin and I'm a technical writer/software developer
+  My name is Tomisin and I'm a technical writer. 
 </p>
 <p align = "center">
   <a href ="https://wwww.linkedin.com/tomisin-olujinmi">
