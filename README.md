@@ -1,7 +1,16 @@
-## Hi there. My name is Tomisin Olujinmi and I'm a technical writer. 👋
+## Hi there. 👋
+<p align = "center">
+  My name is Tomisin and I'm a technical writer/software developer
+</p>
 <p align = "center">
   <a href ="https://wwww.linkedin.com/tomisin-olujinmi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href = "https://www.x.com/hectoraisin">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href = "https://t.me/Spector616">
+    <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 <!--
