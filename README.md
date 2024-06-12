@@ -1,6 +1,6 @@
-## Hi there. 👋
+## Hi there. My name is Tomisin 👋
 <p align = "center">
-  My name is Tomisin and I'm a technical writer. 
+  I'm a technical writer. 🖋️
 </p>
 <p align = "center">
   <a href ="https://wwww.linkedin.com/tomisin-olujinmi">
@@ -13,6 +13,12 @@
     <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+<p align = 'center'>You can also reach me via  <a href = "mailto:tomisinolujinmi@gmail.com">tomisinolujinmi@gmail.com</a></p>
+
+<h2></h2>
+
+
+<p>I have three years of experience in writing technical content, blogs, and articles. I have worked with leading consumer technology website, MakeUseOf, and embedded news blog, CNX Software. I'm currently learning Python and Git, and look forward to gaining more experience in the technical writing field. </p>
 <!--
 **Hectoraisin/hectoraisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
