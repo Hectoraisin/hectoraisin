@@ -13,7 +13,6 @@
     <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-<p align = 'center'>You can also reach me via  <a href = "mailto:tomisinolujinmi@gmail.com">tomisinolujinmi@gmail.com</a></p>
 
 ## 🧐 About Me 
 
